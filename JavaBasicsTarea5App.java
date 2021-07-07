@@ -1,5 +1,5 @@
 
-public class JavaBasicsTarea5 {
+public class JavaBasicsTarea5App {
 
 	public static void main(String[] args) {
 		
